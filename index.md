@@ -9,11 +9,11 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
 
-##
+<hr>
 ### Testing Course
 
   This is the testing for courses on Git
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/parvaizabidi/Course)
 
-##
+<hr>
